@@ -1,4 +1,4 @@
-package ferus.tigris.digger;
+package ferus.tigris.covid19;
 
 import com.phonegap.*;
 import android.os.Bundle;
